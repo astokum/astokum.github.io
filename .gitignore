@@ -1,0 +1,7 @@
+# folder/ to ignore all its content and dirs ( folder name with forward slash)
+# img* will match all the files and folder that start with img[xyabc] named
+# .md will ignore all the files that end with (.md) extension so 
+# to prevent README.md use (!) operator with preceed by file name
+# !README.md 
+node_modules/
+readme.txt
